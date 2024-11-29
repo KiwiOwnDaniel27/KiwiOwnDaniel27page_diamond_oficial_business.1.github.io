@@ -144,7 +144,7 @@ footer a:hover {
     from{
         transform: rotateY(180deg);
     }
-    to{
+    to
         transform: rotateY(-180deg);
     }
 }
@@ -157,4 +157,11 @@ button{
     border-radius: 27px;
 }
 
+.distinto{
+    font-size: 55px;
+    font-family: "Pirata One", serif;
+    font-family: "Pirata One", serif;
+    font-weight: 100;
+    font-style: oblique;
+}
 
