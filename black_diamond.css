@@ -67,8 +67,8 @@ a{
     background-color: rgb(92, 35, 145);
     padding: 20px;
     border-radius: 27px;
+    opacity: 100%;
 }
-
 
 
 .contenedor{
@@ -85,6 +85,10 @@ a{
 
 .encabezado{
     margin: 1px 1px;
+}
+
+.encabezado img{
+    border-radius: 27px;
 }
 
 a{
@@ -148,3 +152,9 @@ footer a:hover {
 button{
     font-size: 20px;
 }
+
+.cuadrado img{
+    border-radius: 27px;
+}
+
+
