@@ -165,3 +165,12 @@ button{
     font-style: oblique;
 }
 
+.opcionees{
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px 5px rgb(92, 35, 145);
+    font-size: 40px;
+    font-family: "Lobster", sans-serif;
+    font-weight: 1500px;
+    font-style: oblique;
+}
